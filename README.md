@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adan</h1>
 <h3 align="center">I am a passionate full-stack software developer currently a student at Bloomtech institute of technology.</h3>
+<p align="center">Is this added in the center with a longer description of who I am?</p>
 
 - 🌱 I’m currently learning **D3.js, data visualization techniques, and improving skills working with animation libraries**
 
