@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Adan</h1>
 <h3 align="center">I am a passionate full-stack software developer currently a student at Bloomtech institute of technology.</h3>
-<p align="center">Right now, I'm currently living in Colona, Illinois: A very small, quiet town about 2 hours west of Chicago. I'm currently on the search for my first job in tech. I aspire to work in a larger city, and I can't wait to see what opportunities are available to me. I love golf and locally owned restaurants. Feel free to reach out and connect! I love new opportunities to meet new people who are ambitious and curious about life and all the places it can take us! </p>
+<p align="center"> I live in Colona, Illinois: A very small, quiet town about 2 hours west of Chicago. I'm on the search for my first job in tech. I aspire to work in a larger city, and I can't wait to see what opportunities are available to me. I love golf and locally owned restaurants. Feel free to reach out and connect! I love new opportunities to meet new people who are ambitious and curious about life and all the places it can take us! </p>
 
 - 🌱 I’m currently learning **D3.js, data visualization techniques, and improving skills working with animation libraries**
 
-- 💬 Ask me about **react, gsap, react-framer-mo**
+- 💬 Ask me about **react, gsap, react-framer-motion**
 
 - 📫 How to reach me **arodriguez133@icloud.com**
 
