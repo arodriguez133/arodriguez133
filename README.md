@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **arodriguez133@icloud.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/adan-rodriguez-313552111/</h3>
 <p align="left">
 </p>
 
